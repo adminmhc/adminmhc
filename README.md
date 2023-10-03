@@ -8,3 +8,5 @@
 adminmhc/adminmhc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Ekran görüntüsü 2023-10-03 171604](https://github.com/adminmhc/adminmhc/assets/144365028/56a35f65-5dd3-4ace-9925-244fc9e8db32)
+![Ekran görüntüsü 2023-10-03 171604](https://github.com/adminmhc/adminmhc/assets/144365028/b32295ca-21de-4b5a-9061-b156513ca401)
